@@ -1,2 +1,4 @@
-# QA-Portfolio-Project-Guide
-QA End-to-End Testing Portfolio
+## Project Artifacts
+
+- [Test Strategy](TestStrategy.md)
+- [PDF Version](documents/Test_Strategy_Document.pdf)
