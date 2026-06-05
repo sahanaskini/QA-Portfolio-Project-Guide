@@ -54,7 +54,6 @@ Leverage lessons learned, defect trend analysis, retrospectives, and testing met
 Beyond validating requirements, testing should ensure that the application delivers a reliable, secure, accessible, and user-friendly experience that meets customer expectations.
 
 ## PDF Version
-[Download the Test Stratergy PDF] [https://github.com/sahanaskini/QA-Portfolio-Project-Guide/blob/2ff2a3da115fcfed1627114dd0dca5d413c59f57/documents/Test%20Stratergy%20Document.pdf]
-
+[Download the Test Stratergy PDF] (https://github.com/sahanaskini/QA-Portfolio-Project-Guide/blob/f4898c1bd00af57f50abb8128aae3c932a767db8/documents/Test_Stratergy_Document.pdf)
 
 
