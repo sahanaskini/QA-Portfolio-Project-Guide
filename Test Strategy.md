@@ -52,3 +52,9 @@ Track metrics that provide actionable insights into product quality, such as tes
 Leverage lessons learned, defect trend analysis, retrospectives, and testing metrics to identify opportunities for process improvement and enhance future testing effectiveness.
 10. Focus on Customer Experience:
 Beyond validating requirements, testing should ensure that the application delivers a reliable, secure, accessible, and user-friendly experience that meets customer expectations.
+
+## PDF Version
+[Download the Test Stratergy PDF] [https://github.com/sahanaskini/QA-Portfolio-Project-Guide/blob/2ff2a3da115fcfed1627114dd0dca5d413c59f57/documents/Test%20Stratergy%20Document.pdf]
+
+
+
